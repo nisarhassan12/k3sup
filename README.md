@@ -9,6 +9,7 @@ How do you say it? Ketchup, as in tomato.
 [![Go Report Card](https://goreportcard.com/badge/github.com/alexellis/k3sup)](https://goreportcard.com/report/github.com/alexellis/k3sup) [![Build
 Status](https://travis-ci.org/alexellis/k3sup.svg?branch=master)](https://travis-ci.org/alexellis/k3sup) [![GoDoc](https://godoc.org/github.com/alexellis/k3sup?status.svg)](https://godoc.org/github.com/alexellis/k3sup) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub All Releases](https://img.shields.io/github/downloads/alexellis/k3sup/total)
+[![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 
 ## What's this for? 💻
 
@@ -245,6 +246,12 @@ Before contributing code, please see the [CONTRIBUTING guide](https://github.com
 Both Issues and PRs have their own templates. Please fill out the whole template.
 
 All commits must be signed-off as part of the [Developer Certificate of Origin (DCO)](https://developercertificate.org)
+
+### Contribute from the Browser with a single Click
+
+For contributing you can also use Gitpod( a free online ide ), with a single click it will launch a ready to code workspace with everything setup so that you can start coding straight away.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/alexellis/k3sup)
 
 ### License
 
